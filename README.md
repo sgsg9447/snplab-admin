@@ -146,14 +146,3 @@ typescript json-server recoil styled-components styled-reset react-hook-form rea
  ┃ ┗ 📜TabPanel.type.tsx
  ┗ 📜index.tsx
 ```
-
-## 8. 제작과정 
-
-<슬기>
-제작 과정을 기록한 블로그 링크 : https://velog.io/@sgsg9447/Admin-Project-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A2%85%EB%A3%8C-%ED%9A%8C%EA%B3%A0 (추후 블로그 내용은 정리 예정)
-
-<연진>
-제작 과정을 기록한 노션 링크 : https://yunjink-studylog.notion.site/Error-Log-SNP-LAB-6923ce73b8bb459f840dc2c24fa1fab5 (추후 블로그 내용은 정리 예정)
-
-<유미>
-제작 과정을 날짜 별로 기록한 블로그 링크 : https://velog.io/@zldzhd9292/wanted-fe-team5 (추후 블로그 내용은 정리 예정)
